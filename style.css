@@ -4,7 +4,7 @@ overflow-x:hidden;
 }
 
 .footer{
-background:#000;
+background:transparent;
 padding:30px 0px;
 font-family: 'Play', sans-serif;
 text-align:center;
@@ -14,7 +14,7 @@ text-align:center;
 width:100%;
 margin:1% 0%;
 padding:0.6% 0%;
-color:gray;
+color:black;
 font-size:0.8em;
 }
 
