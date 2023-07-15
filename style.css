@@ -16,12 +16,15 @@ margin:1% 0%;
 padding:0.6% 0%;
 color:black;
 font-size:0.8em;
+z-index: 200;
+
 }
 
 .footer .row a{
 text-decoration:none;
 color:black;
 transition:0.5s;
+z-index: 200;
 }
 
 .footer .row a:hover{
